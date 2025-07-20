@@ -60,7 +60,7 @@ PowerPoint Presentation of the Project:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/IEEESCE/Decrypts
+   git clone https://github.com/devananda6200/Spinhack
    cd Decrypts
    ```
 
